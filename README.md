@@ -1,4 +1,4 @@
-# Hi there! 🌟 I'm Ariana! 🦄
+### Hi there! 🌟 I'm Ariana! 🦄
 
 Welcome to my GitHub profile! 💖
 
