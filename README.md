@@ -6,8 +6,11 @@ I’m passionate about mathematics 📏, computers 💻, AI 🤖, science 🔬 a
 
 ## Skills & Technologies
 Mathematics 📊: Advanced problem-solving and analytical skills.
+
 Machine Learning 🤖: Building intelligent systems and algorithms.
+
 Programming Languages 💻: Python and C++. 
+
 Data Analysis 📈: Extracting insights from data.
 
 ## Favorite Quote
