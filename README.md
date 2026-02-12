@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter" />
+  <img src="space-shooter.gif" alt="Space Shooter" />
 </p>
 
 ### Hi there! 🌟 I'm Ariana! 🦄
